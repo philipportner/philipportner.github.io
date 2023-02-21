@@ -2,11 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I worked as a teaching assistant at the [Institute of Technical Informatics](https://www.tugraz.at/institute/iti/home) for
+courses in the area of Embedded Systems.
 
-Organize your courses by years, topics, or universities, however you like!
+[Real-Time Operating Systems](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=333365)
+
+[Sensor Networks](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=333664)
+
+[Microcontroller](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=338035)
+
