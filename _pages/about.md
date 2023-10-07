@@ -21,23 +21,24 @@ social: true  # includes social icons at the bottom of the page
 
 Hello there!
 
-I am a Computer Science student currently finishing my masters degree at the 
-Technical University of Graz.
+I am a PhD student at the [DAMS
+Lab](https://www.tu.berlin/en/dams) (data management for data science
+laboratory) at the Technical University of Berlin under the supervision of
+[Matthias Boehm](https://mboehm7.github.io/). There I am working on the
+[DAPHNE](https://daphne-eu.eu/) project.
 
-My research interests are compilers, database systems, and machine learning systems.
+My research interests lie in the systems programming domain, more specifically,
+compilers, database systems, and machine learning systems.
 
 
-My masters thesis work is focused on the [DAPHNE](https://daphne-eu.eu/) project.
-There I am working on a [MLIR](https://mlir.llvm.org/) based compiler for Large-Scale Data Management, HPC and
-Machine Learning Systems.
+I did my masters at the Technical University of Graz working on an
+[MLIR](https://mlir.llvm.org/) based compiler for Large-Scale Data Management,
+HPC and Machine Learning Systems.
+Before that, I wrote my undergraduate thesis at the Secure Systems group at the
+[IAIK](https://www.iaik.tugraz.at/research-area/securesystems/) lead by [Daniel
+Gruss](https://gruss.cc/), where I implemented new versions of the
+[Spectre](https://meltdownattack.com/) attack.
 
-Afterwards I will be joining the DAMS Lab (data management for data science laboratory)
-at the Technical University of Berlin under the supervision of [Matthias Boehm](https://mboehm7.github.io/).
-
-I wrote my undergraduate thesis at the Secure Systems group at the 
-[IAIK](https://www.iaik.tugraz.at/research-area/securesystems/) lead by [Daniel Gruss](https://gruss.cc/), where
-I implemented new versions of the [Spectre](https://meltdownattack.com/) attack.
-
-Alongside my studies I have worked as a software engineer and I also worked as a teaching assistant at the 
-Institute of Technical Informatics in the area of
+Alongside my studies I have worked as a software engineer and I worked as a
+teaching assistant at the Institute of Technical Informatics in the area of
 Embedded Systems.
