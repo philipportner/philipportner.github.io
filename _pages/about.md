@@ -21,10 +21,10 @@ social: true  # includes social icons at the bottom of the page
 
 Hello there!
 
-I am a PhD student at the [DAMS
-Lab](https://www.tu.berlin/en/dams) (data management for data science
-laboratory) at the Technical University of Berlin under the supervision of
-[Matthias Boehm](https://mboehm7.github.io/). There I am working on the
+I am a PhD student at the [DAMS Lab](https://www.tu.berlin/en/dams) (data
+management for data science laboratory) at the Technical University of Berlin
+under the supervision of [Matthias Boehm](https://mboehm7.github.io/) and
+[Patrick Damme](https://pdamme.github.io/). There I am working on the
 [DAPHNE](https://daphne-eu.eu/) project.
 
 My research interests lie in the systems programming domain, more specifically,
@@ -39,6 +39,6 @@ Before that, I wrote my undergraduate thesis at the Secure Systems group at the
 Gruss](https://gruss.cc/), where I implemented new versions of the
 [Spectre](https://meltdownattack.com/) attack.
 
-Alongside my studies I have worked as a software engineer and I worked as a
-teaching assistant at the Institute of Technical Informatics in the area of
-Embedded Systems.
+Alongside my studies I have worked as a software engineer and as a teaching
+assistant at the Institute of Technical Informatics in the area of Embedded
+Systems.
